@@ -423,4 +423,33 @@ pip install -r requirements.txt
 python app.py
 ```
 
-**Live Demo**: [https://huggingface.co/spaces/YOUR_USERNAME/medical-ai-neat-system](https://huggingface.co/spaces/YOUR_USERNAME/medical-ai-neat-system)
+# 🏥 Medical AI Diagnostic System
+
+## 🌐 Live Demo
+Try it now: https://huggingface.co/spaces/1qwsd/med-neat
+
+## ✨ Features
+- 🫁 Pneumonia Detection (88% accuracy)
+- 🧠 Brain Tumor Classification (4 types, 85% accuracy)
+- 🔬 Disease Prediction from symptoms
+- 📊 Automated Lab Report Analysis
+- 💬 Mental Health Support Chatbot
+
+## 🚀 Tech Stack
+- **Algorithm:** NEAT (NeuroEvolution)
+- **ML:** TensorFlow + MobileNetV2
+- **Frontend:** Gradio
+- **Deployment:** Hugging Face Spaces
+
+## 📊 Performance
+- Response Time: <3 seconds
+- Accuracy: 85-90%
+- Mobile: ✅ Fully responsive
+
+## ⚠️ Disclaimer
+Educational purposes only. Not for clinical diagnosis.
+Consult qualified healthcare professionals.
+
+## 👨‍💻 Author
+**Abhishek Adari** | [GitHub](https://github.com/907-bot)
+
